@@ -1,2 +1,2 @@
-# GRS
-Gradget Review Service
+# ERS
+ELECTRONICS AND GADGETS REVIEW SYSTEM
